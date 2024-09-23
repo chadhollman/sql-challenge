@@ -53,4 +53,4 @@ CREATE TABLE salaries
     FOREIGN KEY (emp_no) REFERENCES employees(emp_no)
 );
 
--- Used export feature to insert data into newly created tables
+-- Used import feature to insert data into newly created tables
